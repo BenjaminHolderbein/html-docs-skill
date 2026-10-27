@@ -1,0 +1,8 @@
+{
+  "name": "html-doc",
+  "description": "Write rich, self-contained HTML documents instead of Markdown for specs, plans, reviews, reports and explainers.",
+  "version": "1.0.0",
+  "author": { "name": "benjaminholderbein" },
+  "repository": "https://github.com/benjaminholderbein/html-docs-skill",
+  "license": "MIT"
+}

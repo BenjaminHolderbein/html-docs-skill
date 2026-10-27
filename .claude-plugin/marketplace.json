@@ -1,0 +1,16 @@
+{
+  "name": "html-docs-skill",
+  "owner": {
+    "name": "benjaminholderbein"
+  },
+  "metadata": {
+    "description": "Claude Code skill for rich, self-contained HTML documents."
+  },
+  "plugins": [
+    {
+      "name": "html-doc",
+      "source": "./",
+      "description": "Write rich, self-contained HTML documents instead of Markdown for specs, plans, reviews, reports and explainers."
+    }
+  ]
+}
